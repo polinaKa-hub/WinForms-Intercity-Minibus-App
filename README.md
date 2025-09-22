@@ -65,12 +65,18 @@
 <details>
 <summary>Показать скриншоты</summary>
 
-*   **Окно входа:** <img width="306" height="399" alt="image" src="https://github.com/user-attachments/assets/cd306c88-fb76-4ee9-9dd2-56e21754b5a4" />
-*   **Форма регистрации:** <img width="306" height="395" alt="image" src="https://github.com/user-attachments/assets/1892bbd6-73ea-4975-bc37-0badd195ddd2" />
-*   **Поиск маршрута:** <img width="306" height="398" alt="image" src="https://github.com/user-attachments/assets/e458b59f-f943-4f2a-815d-f5eb4950d41b" />
-*   **Бронирование:** <img width="256" height="324" alt="image" src="https://github.com/user-attachments/assets/74b1a117-f5e0-408e-b524-d9c04a1d2dfe" />
-*   **Мои заказы:** <img width="273" height="345" alt="image" src="https://github.com/user-attachments/assets/c249480d-9c67-432e-8af9-e638954a1449" />
-*   **Панель администратора:** <img width="272" height="348" alt="image" src="https://github.com/user-attachments/assets/37517e6e-ea97-4fca-858f-423305084095" />
+*   **Окно входа:**
+  <img width="306" height="399" alt="image" src="https://github.com/user-attachments/assets/cd306c88-fb76-4ee9-9dd2-56e21754b5a4" />
+*   **Форма регистрации:**
+  <img width="306" height="395" alt="image" src="https://github.com/user-attachments/assets/1892bbd6-73ea-4975-bc37-0badd195ddd2" />
+*   **Поиск маршрута:**
+  <img width="306" height="398" alt="image" src="https://github.com/user-attachments/assets/e458b59f-f943-4f2a-815d-f5eb4950d41b" />
+*   **Бронирование:**
+  <img width="256" height="324" alt="image" src="https://github.com/user-attachments/assets/74b1a117-f5e0-408e-b524-d9c04a1d2dfe" />
+*   **Мои заказы:**
+  <img width="273" height="345" alt="image" src="https://github.com/user-attachments/assets/c249480d-9c67-432e-8af9-e638954a1449" />
+*   **Панель администратора:**
+  <img width="272" height="348" alt="image" src="https://github.com/user-attachments/assets/37517e6e-ea97-4fca-858f-423305084095" />
 
 </details>
 
